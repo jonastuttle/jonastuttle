@@ -1,6 +1,10 @@
-## Hi there 👋
+## Jonas Frederick Tuttle
 
-[![Jonas Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonastuttle)](https://github.com/anuraghazra/github-readme-stats)
+😼 Texas State University CS undergrad<br>
+🔬 Artificial Intelligence researcher<br>
+📚 Interested in AI, ML, startups, and learning!<br>
+💻 Major Apple fanboy #ThinkDifferent<br>
+
 <!--
 **jonastuttle/jonastuttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
