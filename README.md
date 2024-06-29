@@ -2,7 +2,7 @@
 
 😼 Texas State University CS undergrad<br>
 🔬 Artificial Intelligence researcher<br>
-📚 Interested in AI, ML, startups, and learning!<br>
+📚 Interested in AI, data science, startups, and learning!<br>
 💻 Major Apple fanboy #ThinkDifferent<br>
 
 <br>
