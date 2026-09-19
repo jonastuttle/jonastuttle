@@ -1,6 +1,6 @@
 ## Jonas Frederick Tuttle
 
-😼 Texas State University CS undergrad<br>
+😼 Worldclass coder
 🔬 Artificial Intelligence researcher<br>
 📚 Interested in AI, data science, startups, and learning!<br>
 💻 Major Apple fanboy #ThinkDifferent<br>
